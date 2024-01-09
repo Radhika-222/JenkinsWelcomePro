@@ -1,0 +1,11 @@
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.exe
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.dll
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.deps.json
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.runtimeconfig.json
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.pdb
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Mphasis Phase4\Day3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
